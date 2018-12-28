@@ -1,0 +1,2666 @@
+# Translation of Plugins - SiteOrigin Widgets Bundle - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - SiteOrigin Widgets Bundle - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-18 03:57:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - SiteOrigin Widgets Bundle - Stable (latest release)\n"
+
+#: widgets/layout-slider/layout-slider.php:195
+msgid "This widget requires: "
+msgstr "Этот виджет требует:"
+
+#: widgets/headline/headline.php:70 widgets/headline/headline.php:141
+msgid "Hover Color"
+msgstr "Цвет при наведении"
+
+#: widgets/features/features.php:80
+#: widgets/social-media-buttons/social-media-buttons.php:66
+msgid "Icon title"
+msgstr "Заголовок Иконки"
+
+#: widgets/cta/cta.php:89
+msgid "Subtitle color"
+msgstr "Цвет подзаголовока"
+
+#: widgets/cta/cta.php:85
+msgid "Title color"
+msgstr "Цвет заголовока"
+
+#: widgets/contact/contact.php:133
+msgid "Radio"
+msgstr "Радиокнопка"
+
+#: compat/beaver-builder/beaver-builder.php:62
+msgid "Current Color"
+msgstr "Текущий цвет"
+
+#: compat/beaver-builder/beaver-builder.php:61
+msgid "Select Color"
+msgstr "Выберите цвет"
+
+#: compat/beaver-builder/beaver-builder.php:59
+msgid "Clear"
+msgstr "Очистить"
+
+#: widgets/social-media-buttons/data/networks.php:35
+msgid "Snapchat"
+msgstr "Snapchat"
+
+#: widgets/contact/contact.php:212
+msgid "reCAPTCHA Secret Key"
+msgstr "reCAPTCHA Секретный ключ"
+
+#: widgets/contact/contact.php:208
+msgid "reCAPTCHA Site Key"
+msgstr "reCAPTCHA Ключ сайта"
+
+#: widgets/contact/contact.php:203
+msgid "Use reCAPTCHA"
+msgstr "Использовать reCAPTCHA"
+
+#: widgets/contact/contact.php:199
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: widgets/button/button.php:191
+msgid "Additional CSS classes added to the button link."
+msgstr "Дополнительные классы CSS к ссылке кнопки."
+
+#: widgets/button/button.php:190
+msgid "Button Classes"
+msgstr "Классы кнопки"
+
+#: widgets/contact/contact.php:631
+msgid "SiteOrigin Premium"
+msgstr "SiteOrigin Premium"
+
+#: base/inc/fields/media.class.php:194
+msgid "Powered by %s"
+msgstr "Работает на %s"
+
+#: base/inc/fields/icon.class.php:37
+msgid "Search Icons"
+msgstr "Искать иконки"
+
+#: admin/tpl/admin.php:119
+msgid "Save"
+msgstr "Сохранить"
+
+#: base/inc/fields/base.class.php:323
+msgid "Required"
+msgstr "Обязательно"
+
+#: widgets/headline/headline.php:244 widgets/hero/hero.php:205
+msgid "Dynamically adjust your heading font size based on screen size."
+msgstr "Динамически настраивать размер шрифта заголовка в зависимости от размера экрана."
+
+#: widgets/headline/headline.php:243 widgets/hero/hero.php:204
+msgid "Use FitText"
+msgstr "Использование FitText"
+
+#: widgets/headline/headline.php:236
+msgid "Sub Headline"
+msgstr "Подзаголовок"
+
+#: widgets/headline/headline.php:232
+msgid "Element Order"
+msgstr "Порядок элементов"
+
+#: widgets/headline/headline.php:219
+msgid "Divider Width"
+msgstr "Ширина разделителя"
+
+#: widgets/headline/headline.php:202
+msgid "Thickness"
+msgstr "Толщина"
+
+#: widgets/headline/headline.php:98 widgets/headline/headline.php:169
+#: widgets/headline/headline.php:224
+msgid "Top and Bottom Margin"
+msgstr "Верхний и нижний маржин"
+
+#: widgets/headline/headline.php:94 widgets/headline/headline.php:165
+msgid "Line Height"
+msgstr "Межстрочный интервал"
+
+#: widgets/contact/contact.php:379 widgets/headline/headline.php:79
+#: widgets/headline/headline.php:150
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: widgets/headline/headline.php:61 widgets/headline/headline.php:132
+msgid "Paragraph"
+msgstr "Параграф"
+
+#: widgets/headline/headline.php:52 widgets/headline/headline.php:123
+msgid "HTML Tag"
+msgstr "HTML-тег"
+
+#: base/inc/fields/media.class.php:228
+msgid "Sponsored"
+msgstr "Спонсированные"
+
+#: base/inc/fields/media.class.php:209
+msgid "Load More"
+msgstr "Загрузи больше"
+
+#: base/inc/fields/media.class.php:206
+msgid "Downloading Image - Please Wait"
+msgstr "Загрузка изображения - Пожалуйста, подождите"
+
+#: base/inc/fields/media.class.php:205
+msgid "Loading Images"
+msgstr "Загрузка изображений"
+
+#: base/inc/fields/media.class.php:187
+msgid "Related Searches: "
+msgstr "Похожие запросы: "
+
+#: base/inc/fields/media.class.php:172 base/inc/fields/media.class.php:180
+msgid "Search For Images"
+msgstr "Поиск изображений"
+
+#: base/inc/fields/media.class.php:168
+msgid "Would you like to import this image into your media library?"
+msgstr "Вы хотите импортировать это изображение в вашу медиа библиотеку?"
+
+#: base/inc/fields/media.class.php:62
+msgid "Image Search"
+msgstr "Поиск изображения"
+
+#: base/inc/actions.php:185
+msgid "Attachment error"
+msgstr "Ошибка вложения"
+
+#: base/inc/actions.php:159
+msgid "Signature error"
+msgstr "Ошибка подписи"
+
+#: base/inc/actions.php:149
+msgid "Nonce error"
+msgstr "Ошибка Nonce"
+
+#: widgets/social-media-buttons/tpl/default.php:11
+msgid "%s on %s"
+msgstr "%s в %s"
+
+#: widgets/social-media-buttons/data/networks.php:86
+msgid "500px"
+msgstr "500px"
+
+#: widgets/google-map/google-map.php:57
+msgid "Enter your %sAPI key%s. Your map may not function correctly without one."
+msgstr "Введите %sAPI ключ%s. Ваша карта не будет правильно работать без этого."
+
+#: widgets/video/video.php:56
+msgid "Sources"
+msgstr "Источники"
+
+#: widgets/taxonomy/taxonomy.php:58
+msgid "Hover color"
+msgstr "Цвет при наведении мыши"
+
+#: widgets/taxonomy/taxonomy.php:48
+msgid "Links"
+msgstr "Ссылки"
+
+#: widgets/taxonomy/taxonomy.php:46
+msgid "Display as"
+msgstr "Отображать как"
+
+#: widgets/taxonomy/taxonomy.php:18
+msgid "A taxonomy widget."
+msgstr "Виджет с Таксономией."
+
+#: widgets/taxonomy/taxonomy.php:16
+msgid "SiteOrigin Taxonomy"
+msgstr "SiteOrigin Таксономия"
+
+#: widgets/layout-slider/layout-slider.php:261
+msgid "This widget requires Page Builder."
+msgstr "Этот виджет требует Конструктор Страниц"
+
+#: widgets/layout-slider/layout-slider.php:20
+msgid "A slider that allows you to create responsive columnized content for each slide."
+msgstr "Слайдер, который позволяет создавать адаптивные колонки для каждого слайда."
+
+#: widgets/layout-slider/layout-slider.php:18
+msgid "SiteOrigin Layout Slider"
+msgstr "SiteOrigin Слайдер Макет"
+
+#: widgets/contact/contact.php:1004
+msgid "Contact Form"
+msgstr "Форма обратной связи"
+
+#: widgets/button/button.php:90
+msgid "Leave blank to let the button resize according to content."
+msgstr "Оставьте поле пустым, чтобы кнопка меняла размер в соответствии с содержанием."
+
+#: base/inc/widgets/base-slider.class.php:97
+msgid "Allow users to swipe through frames on mobile devices."
+msgstr "Разрешить пользователям управлять слайдами при помощи свайпа на мобильных устройствах."
+
+#: base/inc/widgets/base-slider.class.php:96
+msgid "Swipe Control"
+msgstr "Свайп Управление"
+
+#: base/inc/fields/image-size.class.php:15
+msgid "Thumbnail (Theme-defined)"
+msgstr "Миниатюра (определено темой)"
+
+#: base/inc/fields/builder.class.php:37
+#: widgets/layout-slider/layout-slider.php:196
+msgid "SiteOrigin Page Builder"
+msgstr "SiteOrigin Конструктор Cтраниц"
+
+#: base/inc/fields/builder.class.php:36
+msgid "This field requires: "
+msgstr "Это поле необходимо: "
+
+#: base/inc/fields/builder.class.php:20
+msgid "Open Builder"
+msgstr "Открыть конструктор"
+
+#: widgets/headline/headline.php:83 widgets/headline/headline.php:154
+#: widgets/headline/headline.php:209 widgets/icon/icon.php:45
+msgid "Alignment"
+msgstr "Выравнивание"
+
+#: widgets/icon/icon.php:18
+msgid "An icon widget."
+msgstr "Виджет для иконок"
+
+#: widgets/icon/icon.php:16
+msgid "SiteOrigin Icon"
+msgstr "SiteOrigin Иконка"
+
+#: widgets/hero/hero.php:192 widgets/layout-slider/layout-slider.php:154
+msgid "Heading color"
+msgstr "Цвет заголовка"
+
+#: widgets/features/features.php:98
+msgid "Icon image size"
+msgstr "Размер иконки изображения"
+
+#: widgets/contact/contact.php:457
+msgid "Italic"
+msgstr "Курсив"
+
+#: widgets/contact/contact.php:440
+msgid "Field descriptions"
+msgstr "Описания полей"
+
+#: widgets/contact/contact.php:149
+msgid "This text will appear small beneath the input field."
+msgstr "Этот текст появится под полем ввода."
+
+#: widgets/contact/contact.php:148
+msgid "Description"
+msgstr "описание"
+
+#: widgets/testimonial/testimonial.php:76
+msgid "Link image"
+msgstr "Ссылка на изображение"
+
+#: widgets/testimonial/testimonial.php:60
+msgid "Link name"
+msgstr "Название ссылки"
+
+#: widgets/price-table/price-table.php:80
+msgid "Image alt text"
+msgstr "Изображение alt текст"
+
+#: widgets/image/image.php:60
+msgid "Title position"
+msgstr "Положение заголовка"
+
+#: widgets/contact/contact.php:343 widgets/image/image.php:65
+msgid "Below"
+msgstr "Под"
+
+#: widgets/image/image.php:43
+msgid "Image alignment"
+msgstr "Выравнивание картинки"
+
+#: widgets/contact/contact.php:342 widgets/image/image.php:64
+msgid "Above"
+msgstr "Сверху"
+
+#: widgets/contact/contact.php:583
+msgid "Input focus"
+msgstr "Псевдокласс focus для Input"
+
+#: widgets/contact/contact.php:346
+msgid "Inside"
+msgstr "Внутри"
+
+#: widgets/contact/contact.php:238
+msgid "Compact"
+msgstr "Компактный"
+
+#: widgets/contact/contact.php:320
+msgid "Field labels"
+msgstr "Лэйблы полей"
+
+#: widgets/contact/contact.php:339
+msgid "Position"
+msgstr "Позиция "
+
+#: widgets/contact/contact.php:229
+msgid "Audio"
+msgstr "Аудио"
+
+#: widgets/contact/contact.php:220
+msgid "Dark"
+msgstr "Темная"
+
+#: widgets/contact/contact.php:225
+msgid "Challenge type"
+msgstr "Тип вызова"
+
+#: widgets/contact/contact.php:219
+msgid "Light"
+msgstr "светлая"
+
+#: icons/icons.php:12
+msgid "Ionicons"
+msgstr "Ionicons"
+
+#: base/inc/post-selector.php:149
+msgid "To"
+msgstr "на"
+
+#: base/inc/post-selector.php:151
+msgid "In the format 'yyyy-mm-dd'."
+msgstr "В формате 'гггг-мм-дд'."
+
+#: widgets/contact/contact.php:216
+msgid "Theme"
+msgstr "Шаблон"
+
+#: base/inc/post-selector.php:146
+msgid "Date range"
+msgstr "Временной диапазон"
+
+#: base/inc/post-selector.php:147
+msgid "From"
+msgstr "с"
+
+#: widgets/features/features.php:174
+msgid "More Link"
+msgstr "Ссылка подробнее"
+
+#: widgets/contact/contact.php:234 widgets/contact/contact.php:444
+#: widgets/features/features.php:142 widgets/features/features.php:163
+#: widgets/features/features.php:184 widgets/icon/icon.php:40
+msgid "Size"
+msgstr "Размеры"
+
+#: widgets/contact/contact.php:475
+msgid "Error border color"
+msgstr "Ошибка границы цвета"
+
+#: widgets/video/video.php:17
+msgid "SiteOrigin Video Player"
+msgstr "SiteOrigin Видеоплеер"
+
+#: widgets/testimonial/testimonial.php:266
+msgid "Text below user"
+msgstr "Текст ниже пользователя"
+
+#: widgets/testimonial/testimonial.php:265
+msgid "Text above user"
+msgstr "Текст выше пользователя"
+
+#: widgets/testimonial/testimonial.php:264
+msgid "Side by side"
+msgstr "Бок о бок"
+
+#: widgets/testimonial/testimonial.php:262
+msgid "Testimonial layout"
+msgstr "Макет отзыва"
+
+#: widgets/testimonial/testimonial.php:255
+msgid "Middle"
+msgstr "Середина"
+
+#: widgets/testimonial/testimonial.php:251
+msgid "User position"
+msgstr "Позиция пользователя"
+
+#: widgets/contact/contact.php:383 widgets/testimonial/testimonial.php:225
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: widgets/testimonial/testimonial.php:220
+msgid "Text Background"
+msgstr "Фон для текста"
+
+#: widgets/testimonial/testimonial.php:216
+msgid "Widget Background"
+msgstr "Фон виджета"
+
+#: widgets/testimonial/testimonial.php:212
+msgid "Colors"
+msgstr "Цвета"
+
+#: widgets/testimonial/testimonial.php:194
+msgid "Round"
+msgstr "Круг"
+
+#: widgets/testimonial/testimonial.php:193
+msgid "Square"
+msgstr "Квадрат"
+
+#: widgets/testimonial/testimonial.php:191
+msgid "Testimonial image shape"
+msgstr "Форма изображения для отзыва"
+
+#: widgets/testimonial/testimonial.php:147
+msgid "Mobile Phone"
+msgstr "Смартфон"
+
+#: widgets/testimonial/testimonial.php:139
+#: widgets/testimonial/testimonial.php:168
+msgid "The resolution to treat as a tablet resolution."
+msgstr "Разрешение которое надо трактовать как разрешение для планшета."
+
+#: widgets/testimonial/testimonial.php:138
+#: widgets/testimonial/testimonial.php:167
+msgid "Resolution"
+msgstr "Разрешение"
+
+#: widgets/testimonial/testimonial.php:118
+msgid "Tablet"
+msgstr "Планшет"
+
+#: widgets/testimonial/testimonial.php:113
+msgid "Responsive"
+msgstr "Адаптивный"
+
+#: widgets/testimonial/testimonial.php:104
+#: widgets/testimonial/testimonial.php:122
+#: widgets/testimonial/testimonial.php:151
+msgid "Testimonials per row"
+msgstr "Отзывов в строчке"
+
+#: widgets/testimonial/testimonial.php:92
+msgid "Open In New Window"
+msgstr "Открыть в новом окне"
+
+#: widgets/testimonial/testimonial.php:82
+msgid "What your customer had to say"
+msgstr "Что ваш клиент должен сказать"
+
+#: widgets/testimonial/testimonial.php:66
+msgid "Their location or company name"
+msgstr "Их расположение или название компании"
+
+#: widgets/testimonial/testimonial.php:55
+msgid "The author of the testimonial"
+msgstr "Автор отзыва"
+
+#: widgets/testimonial/testimonial.php:45
+msgid "Testimonial"
+msgstr "Отзыв"
+
+#: widgets/testimonial/testimonial.php:44
+msgid "Testimonials"
+msgstr "Отзывы"
+
+#: widgets/testimonial/testimonial.php:16
+msgid "Share your product/service testimonials in a variety of different ways."
+msgstr "Поделитесь своими отзывы продуктов или сервиса различными способами."
+
+#: widgets/testimonial/testimonial.php:14
+msgid "SiteOrigin Testimonials"
+msgstr "SiteOrigin Отзывы"
+
+#: widgets/simple-masonry/simple-masonry.php:157
+msgid "Mobile Layout"
+msgstr "Макет для мобильных"
+
+#: widgets/simple-masonry/simple-masonry.php:131
+#: widgets/simple-masonry/simple-masonry.php:162
+msgid "Break point"
+msgstr "Точка перехода"
+
+#: widgets/simple-masonry/simple-masonry.php:126
+msgid "Tablet Layout"
+msgstr "Макет для планшета"
+
+#: widgets/simple-masonry/simple-masonry.php:119
+#: widgets/simple-masonry/simple-masonry.php:150
+#: widgets/simple-masonry/simple-masonry.php:181
+msgid "Space between masonry items."
+msgstr "Пространство между элементами плитки."
+
+#: widgets/simple-masonry/simple-masonry.php:118
+#: widgets/simple-masonry/simple-masonry.php:149
+#: widgets/simple-masonry/simple-masonry.php:180
+msgid "Gutter"
+msgstr "Интервал между столбцами"
+
+#: widgets/simple-masonry/simple-masonry.php:113
+#: widgets/simple-masonry/simple-masonry.php:144
+#: widgets/simple-masonry/simple-masonry.php:175
+msgid "Leave blank to match calculated column width."
+msgstr "Оставьте поле пустым, чтобы автоматически рассчитывать ширину столбца."
+
+#: widgets/simple-masonry/simple-masonry.php:112
+#: widgets/simple-masonry/simple-masonry.php:143
+#: widgets/simple-masonry/simple-masonry.php:174
+msgid "Row height"
+msgstr "Высота строки"
+
+#: widgets/simple-masonry/simple-masonry.php:105
+#: widgets/simple-masonry/simple-masonry.php:136
+#: widgets/simple-masonry/simple-masonry.php:167
+msgid "Number of columns"
+msgstr "Количество столбцов"
+
+#: widgets/simple-masonry/simple-masonry.php:101
+msgid "Desktop Layout"
+msgstr "Десктоп макет"
+
+#: widgets/simple-masonry/simple-masonry.php:79
+msgid "Number of rows this item should span. (Limited to number of columns selected in Layout section below.)"
+msgstr "Количество строк, которые этот элемент должен занять в диапазоне. (Ограниченное число столбцов, выбранных в Layout разделе ниже.)"
+
+#: widgets/simple-masonry/simple-masonry.php:78
+msgid "Row span"
+msgstr "Диапазон строк"
+
+#: widgets/simple-masonry/simple-masonry.php:71
+msgid "Number of columns this item should span. (Limited to number of columns selected in Layout section below.)"
+msgstr "Количество столбцов, которые этот элемент должен занять в диапазоне. (Ограниченное число столбцов, выбранных в Layout разделе ниже.)"
+
+#: widgets/simple-masonry/simple-masonry.php:70
+msgid "Column span"
+msgstr "Диапазон колонки"
+
+#: widgets/simple-masonry/simple-masonry.php:16
+msgid "A simple masonry layout widget."
+msgstr "Простой виджет макета плитки."
+
+#: widgets/simple-masonry/simple-masonry.php:14
+msgid "SiteOrigin Simple Masonry"
+msgstr "SiteOrigin Простая Плитка (masonry)"
+
+#: widgets/image-grid/image-grid.php:96
+msgid "Amount of spacing between images."
+msgstr "Величина интервала между изображениями."
+
+#: widgets/image-grid/image-grid.php:95
+msgid "Spacing"
+msgstr "Интервал"
+
+#: widgets/image-grid/image-grid.php:90
+msgid "Maximum image width"
+msgstr "Максимальная ширина изображения"
+
+#: widgets/image-grid/image-grid.php:85
+msgid "Maximum image height"
+msgstr "Максимальная высота изображения"
+
+#: widgets/image-grid/image-grid.php:76
+msgid "Display"
+msgstr "Отображать"
+
+#: widgets/image-grid/image-grid.php:65 widgets/price-table/price-table.php:75
+msgid "Image title"
+msgstr "Заголовок изображения"
+
+#: widgets/image-grid/image-grid.php:51
+#: widgets/simple-masonry/simple-masonry.php:59
+msgid "Images"
+msgstr "Изображения"
+
+#: widgets/image-grid/image-grid.php:17
+msgid "Display a grid of images."
+msgstr "Выводит сетку изображений."
+
+#: widgets/image-grid/image-grid.php:15
+msgid "SiteOrigin Image Grid"
+msgstr "SiteOrigin Сетка Изображений"
+
+#: widgets/hero/hero.php:168 widgets/layout-slider/layout-slider.php:136
+msgid "Additional padding added to the top of the slider"
+msgstr "Дополнительный отступ добавлен к верхней части слайдера"
+
+#: widgets/hero/hero.php:167 widgets/layout-slider/layout-slider.php:135
+msgid "Extra top padding"
+msgstr "Дополнительный верхний отступ"
+
+#: widgets/hero/hero.php:123 widgets/layout-slider/layout-slider.php:91
+msgid "Open URL in a new window"
+msgstr "Открыть URL в новом окне"
+
+#: widgets/headline/headline.php:60 widgets/headline/headline.php:131
+msgid "H6"
+msgstr "H6"
+
+#: widgets/headline/headline.php:59 widgets/headline/headline.php:130
+msgid "H5"
+msgstr "H5"
+
+#: widgets/headline/headline.php:58 widgets/headline/headline.php:129
+msgid "H4"
+msgstr "H4"
+
+#: widgets/headline/headline.php:57 widgets/headline/headline.php:128
+msgid "H3"
+msgstr "H3"
+
+#: widgets/headline/headline.php:56 widgets/headline/headline.php:127
+msgid "H2"
+msgstr "H2"
+
+#: widgets/headline/headline.php:55 widgets/headline/headline.php:126
+msgid "H1"
+msgstr "H1"
+
+#: widgets/contact/contact.php:1124
+msgid "Unfortunately our system identified your message as spam."
+msgstr "К сожалению, наша система определила ваше сообщение как спам."
+
+#: widgets/contact/contact.php:1092
+msgid "Error validating your Captcha response."
+msgstr "Ошибка проверки Captcha."
+
+#: widgets/contact/contact.php:1058
+msgid "Missing subject"
+msgstr "Отсутствует заголовок"
+
+#: widgets/contact/contact.php:1054
+msgid "The email address is invalid"
+msgstr "Адрес электронной почты является недействительным"
+
+#: widgets/contact/contact.php:1052
+msgid "A valid email is required"
+msgstr "Требуется действительный адрес электронной почты"
+
+#: widgets/contact/contact.php:1034
+msgid "Error sending email, please try again later."
+msgstr "Ошибка при отправке электронной почты, пожалуйста, повторите попытку позже."
+
+#: widgets/contact/contact.php:960
+msgid "Invalid email address."
+msgstr "Неверный адрес электронной почты."
+
+#: widgets/contact/contact.php:681
+msgid "Please write something"
+msgstr "Пожалуйста, напишите что-нибудь"
+
+#: widgets/contact/contact.php:678
+msgid "Message"
+msgstr "Сообщение"
+
+#: widgets/contact/contact.php:673
+msgid "Please enter a subject"
+msgstr "Пожалуйста, введите тему"
+
+#: widgets/contact/contact.php:665
+msgid "Please enter a valid email address"
+msgstr "Пожалуйста, введите действительный адрес электронной почты"
+
+#: widgets/contact/contact.php:662
+msgid "Your Email"
+msgstr "Ваш e-mail"
+
+#: widgets/contact/contact.php:657
+msgid "Please enter your name"
+msgstr "Пожалуйста, введите Ваше имя"
+
+#: widgets/contact/contact.php:654
+msgid "Your Name"
+msgstr "Ваше имя"
+
+#: widgets/contact/contact.php:573
+msgid "The white highlight at the bottom of the button"
+msgstr "Белая подсветка в нижней части кнопки"
+
+#: widgets/contact/contact.php:572
+msgid "Inset highlight"
+msgstr "Добавить подсветку"
+
+#: widgets/contact/contact.php:562
+msgid "Bold"
+msgstr "Жирный"
+
+#: widgets/contact/contact.php:561
+msgid "Semi-bold"
+msgstr "Полужирный"
+
+#: widgets/contact/contact.php:557
+msgid "Font weight"
+msgstr "Толщина шрифта"
+
+#: widgets/contact/contact.php:430 widgets/contact/contact.php:540
+msgid "Border rounding"
+msgstr "Закругление границ"
+
+#: widgets/contact/contact.php:514
+msgid "Gradient intensity"
+msgstr "Интенсивность градиента"
+
+#: widgets/contact/contact.php:503
+msgid "Style the button or leave it with default theme styling."
+msgstr "Стилизуйте кнопку или оставьте ее с темным стилем по умолчанию."
+
+#: widgets/contact/contact.php:502
+msgid "Style submit button"
+msgstr "Стиль кнопки отправить"
+
+#: widgets/contact/contact.php:498
+msgid "Submit button"
+msgstr "Кнопка отправить"
+
+#: widgets/contact/contact.php:490
+msgid "Error margin"
+msgstr "Отступ для ошибок (margin)"
+
+#: widgets/contact/contact.php:485
+msgid "Error padding"
+msgstr "Отступ для ошибок (padding)"
+
+#: widgets/contact/contact.php:480
+msgid "Error text color"
+msgstr "Цвет текста для ошибок"
+
+#: widgets/contact/contact.php:470
+msgid "Error background color"
+msgstr "Цвет фона для ошибок"
+
+#: widgets/contact/contact.php:466
+msgid "Error messages"
+msgstr "Сообщения об ошибках"
+
+#: widgets/contact/contact.php:304 widgets/contact/contact.php:417
+#: widgets/contact/contact.php:599 widgets/image/image.php:63
+msgid "Hidden"
+msgstr "Скрытый"
+
+#: widgets/contact/contact.php:300 widgets/contact/contact.php:524
+msgid "Border style"
+msgstr "Стиль рамки"
+
+#: widgets/contact/contact.php:295 widgets/contact/contact.php:408
+#: widgets/contact/contact.php:535
+msgid "Border width"
+msgstr "Ширина рамки"
+
+#: widgets/contact/contact.php:276
+msgid "Container"
+msgstr "Контейнер"
+
+#: widgets/contact/contact.php:260
+msgid "How to handle submissions that are identified as spam."
+msgstr "Как обрабатывать материалы, которые определены как спам."
+
+#: widgets/contact/contact.php:258
+msgid "Tag as spam in subject"
+msgstr "Метка как спам в заголовоке"
+
+#: widgets/contact/contact.php:257
+msgid "Show error message"
+msgstr "Показать сообщение об ошибке"
+
+#: widgets/contact/contact.php:255
+msgid "Spam action"
+msgstr "Действия для спама"
+
+#: widgets/contact/contact.php:250
+msgid "Use Akismet filtering"
+msgstr "Используйте фильтрацию Akismet"
+
+#: widgets/contact/contact.php:246
+msgid "Akismet"
+msgstr "Akismet"
+
+#: widgets/contact/contact.php:193
+msgid "Spam Protection"
+msgstr "Защита от спама"
+
+#: widgets/contact/contact.php:178
+msgid "Value"
+msgstr "Значение"
+
+#: widgets/contact/contact.php:173
+msgid "Option"
+msgstr "Параметр"
+
+#: widgets/contact/contact.php:172
+msgid "Options"
+msgstr "Параметры"
+
+#: widgets/contact/contact.php:164
+msgid "Error message to display if this field is missing."
+msgstr "Сообщение об ошибке отображается, когда данное поле не заполнено."
+
+#: widgets/contact/contact.php:163
+msgid "Missing message"
+msgstr "Отсутствуюет сообщение"
+
+#: widgets/contact/contact.php:159
+msgid "Is this field required?"
+msgstr "Требовать ли это поле?"
+
+#: widgets/contact/contact.php:158 widgets/contact/contact.php:948
+msgid "Required field"
+msgstr "Обязательное поле"
+
+#: widgets/contact/contact.php:154
+msgid "Required Field"
+msgstr "Обязательное поле"
+
+#: widgets/contact/contact.php:143 widgets/taxonomy/taxonomy.php:42
+msgid "Label"
+msgstr "Лейбл"
+
+#: widgets/contact/contact.php:132
+msgid "Checkboxes"
+msgstr "Чекбокс"
+
+#: widgets/contact/contact.php:131
+msgid "Dropdown Select"
+msgstr "Выпадающий список"
+
+#: widgets/contact/contact.php:130
+msgid "Text Area"
+msgstr "Область для текста"
+
+#: widgets/contact/contact.php:128 widgets/contact/contact.php:670
+msgid "Subject"
+msgstr "Тема"
+
+#: widgets/contact/contact.php:126 widgets/testimonial/testimonial.php:54
+msgid "Name"
+msgstr "Имя"
+
+#: widgets/contact/contact.php:124
+msgid "Field Type"
+msgstr "Тип поля"
+
+#: widgets/contact/contact.php:116
+msgid "Field"
+msgstr "Поле"
+
+#: widgets/contact/contact.php:115 widgets/contact/contact.php:370
+msgid "Fields"
+msgstr "Поля"
+
+#: widgets/contact/contact.php:85
+msgid "Submit button text"
+msgstr "Текст кнопки Отправить "
+
+#: widgets/contact/contact.php:81
+msgid "Thanks for contacting us. We'll get back to you shortly."
+msgstr "Благодарим Вас за обращение к нам . Мы свяжемся с Вами в ближайшее время."
+
+#: widgets/contact/contact.php:80
+msgid "Message to display after message successfully sent."
+msgstr "Сообщение для отображения при условии успешно отправленного сообщения."
+
+#: widgets/contact/contact.php:79
+msgid "Success message"
+msgstr "Сообщение об успешном выполнении"
+
+#: widgets/contact/contact.php:75
+msgid "Prefix added to all incoming email subjects."
+msgstr "Префикс добавляется ко всем входящим сообщениям электронной почты."
+
+#: widgets/contact/contact.php:74
+msgid "Subject prefix"
+msgstr "Тема префикса"
+
+#: widgets/contact/contact.php:70
+msgid "Subject to use when there isn't one available."
+msgstr "При условии, что другого нет."
+
+#: widgets/contact/contact.php:69
+msgid "Default subject"
+msgstr "Заголовок по умолчанию "
+
+#: widgets/contact/contact.php:64
+msgid "Where contact emails will be delivered to."
+msgstr "Куда все сообщения будут доставлены."
+
+#: widgets/contact/contact.php:63
+msgid "To email address"
+msgstr "Email получателя"
+
+#: widgets/contact/contact.php:53
+msgid "Display title"
+msgstr "Показать заголовок"
+
+#: widgets/contact/contact.php:48 widgets/contact/contact.php:86
+msgid "Contact Us"
+msgstr "Свяжитесь с нами"
+
+#: widgets/contact/contact.php:18
+msgid "Create a simple contact form for your users to get hold of you."
+msgstr "Создайте простую контактную форму для ваших пользователей."
+
+#: widgets/contact/contact.php:16
+msgid "SiteOrigin Contact Form"
+msgstr "SiteOrigin Контактная Форма"
+
+#: so-widgets-bundle.php:212
+msgid "A new widget!"
+msgstr "Новый виджет!"
+
+#: so-widgets-bundle.php:196
+msgid "New widgets available in the "
+msgstr "Новые виджеты доступны в"
+
+#: admin/tpl/admin.php:67
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#: admin/tpl/admin.php:66
+msgid "Activate"
+msgstr "Активировать"
+
+#: admin/tpl/admin.php:44
+msgid "Active"
+msgstr "Активен"
+
+#: admin/tpl/admin.php:12
+msgid "Filter Widgets"
+msgstr "Фильтр Виджетов"
+
+#. Author URI of the plugin/theme
+msgid "https://siteorigin.com"
+msgstr "https://siteorigin.com"
+
+#. Author of the plugin/theme
+msgid "SiteOrigin"
+msgstr "SiteOrigin"
+
+#. Description of the plugin/theme
+msgid "A collection of all widgets, neatly bundled into a single plugin. It's also a framework to code your own widgets on top of."
+msgstr "Коллекция из всех виджетов, аккуратно сложенна в один плагин. Это также основа для кодирования своих собственные виджетов."
+
+#. Plugin URI of the plugin/theme
+msgid "https://siteorigin.com/widgets-bundle/"
+msgstr "https://siteorigin.com/widgets-bundle/"
+
+#: widgets/video/video.php:106
+msgid "Always use the embedded video rather than the MediaElement player."
+msgstr "Всегда используйте встроенное видео, а не MediaElement плеер."
+
+#: widgets/video/video.php:105
+msgid "Use oEmbed"
+msgstr "Использование oEmbed"
+
+#: widgets/video/video.php:100
+msgid "Autoplay"
+msgstr "Автовоспроизведение"
+
+#: widgets/video/video.php:95
+msgid "Video Playback"
+msgstr "Проигрывание видео"
+
+#: widgets/video/video.php:73
+msgid "Select cover image"
+msgstr "Выберите изображение обложки"
+
+#: widgets/video/video.php:61
+msgid "Select video"
+msgstr "Выберите видео"
+
+#: widgets/video/video.php:52
+msgid "Video File"
+msgstr "Видеофайл"
+
+#: widgets/video/video.php:40
+msgid "Externally hosted"
+msgstr "Внешний источник"
+
+#: widgets/video/video.php:39
+msgid "Self hosted"
+msgstr "Хранящиеся на данном хосте"
+
+#: widgets/video/video.php:36
+msgid "Video location"
+msgstr "Расположение видео "
+
+#: widgets/video/video.php:19
+msgid "A video player widget."
+msgstr "Виджет для видео."
+
+#: widgets/contact/contact.php:387
+#: widgets/social-media-buttons/social-media-buttons.php:148
+msgid "Margin"
+msgstr "Отступ (Margin)"
+
+#: widgets/image-grid/image-grid.php:69
+#: widgets/social-media-buttons/social-media-buttons.php:62
+#: widgets/testimonial/testimonial.php:87
+msgid "URL"
+msgstr "Ссылка"
+
+#: widgets/social-media-buttons/social-media-buttons.php:57
+msgid "Select network"
+msgstr "Выберите сеть"
+
+#: widgets/social-media-buttons/social-media-buttons.php:47
+msgid "Network"
+msgstr "Сеть"
+
+#: widgets/social-media-buttons/social-media-buttons.php:46
+msgid "Networks"
+msgstr "Сети"
+
+#: widgets/social-media-buttons/social-media-buttons.php:20
+msgid "A social media buttons widget."
+msgstr "Виджет кнопок социальных сетей."
+
+#: widgets/social-media-buttons/social-media-buttons.php:18
+msgid "SiteOrigin Social Media Buttons"
+msgstr "SiteOrigin Кнопки для социальных сетей"
+
+#: widgets/social-media-buttons/data/networks.php:272
+msgid "YouTube"
+msgstr "YouTube"
+
+#: widgets/social-media-buttons/data/networks.php:266
+msgid "Yelp"
+msgstr "Yelp"
+
+#: widgets/social-media-buttons/data/networks.php:260
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: widgets/social-media-buttons/data/networks.php:254
+msgid "Xing"
+msgstr "Xing"
+
+#: widgets/social-media-buttons/data/networks.php:248
+msgid "WordPress"
+msgstr "WordPress"
+
+#: widgets/social-media-buttons/data/networks.php:242
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: widgets/social-media-buttons/data/networks.php:236
+msgid "Twitch"
+msgstr "Twitch"
+
+#: widgets/social-media-buttons/data/networks.php:230
+msgid "TripAdvisor"
+msgstr "TripAdvisor"
+
+#: widgets/social-media-buttons/data/networks.php:224
+msgid "Trello"
+msgstr "Trello"
+
+#: widgets/social-media-buttons/data/networks.php:218
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: widgets/social-media-buttons/data/networks.php:212
+msgid "Steam"
+msgstr "Steam"
+
+#: widgets/social-media-buttons/data/networks.php:206
+msgid "Stack Overflow"
+msgstr "Stack Overflow"
+
+#: widgets/social-media-buttons/data/networks.php:200
+msgid "Stack Exchange"
+msgstr "Stack Exchange"
+
+#: widgets/social-media-buttons/data/networks.php:194
+msgid "Spotify"
+msgstr "Spotify"
+
+#: widgets/social-media-buttons/data/networks.php:188
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: widgets/social-media-buttons/data/networks.php:182
+msgid "Slideshare"
+msgstr "Slideshare"
+
+#: widgets/social-media-buttons/data/networks.php:176
+msgid "Slack"
+msgstr "Slack"
+
+#: widgets/social-media-buttons/data/networks.php:170
+msgid "Reddit"
+msgstr "Reddit"
+
+#: widgets/social-media-buttons/data/networks.php:164
+msgid "Last.fm"
+msgstr "Last.fm"
+
+#: widgets/social-media-buttons/data/networks.php:158
+msgid "JSFiddle"
+msgstr "JSFiddle"
+
+#: widgets/social-media-buttons/data/networks.php:152
+msgid "Hacker News"
+msgstr "Hacker News"
+
+#: widgets/social-media-buttons/data/networks.php:146
+msgid "Gratipay"
+msgstr "Gratipay"
+
+#: widgets/social-media-buttons/data/networks.php:140
+msgid "Github"
+msgstr "Github"
+
+#: widgets/social-media-buttons/data/networks.php:134
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: widgets/social-media-buttons/data/networks.php:128
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: widgets/social-media-buttons/data/networks.php:122
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: widgets/social-media-buttons/data/networks.php:116
+msgid "deviantArt"
+msgstr "deviantArt"
+
+#: widgets/social-media-buttons/data/networks.php:110
+msgid "Delicious"
+msgstr "Delicious"
+
+#: widgets/social-media-buttons/data/networks.php:104
+msgid "Codepen"
+msgstr "Codepen"
+
+#: widgets/social-media-buttons/data/networks.php:98
+msgid "Bitbucket"
+msgstr "Bitbucket"
+
+#: widgets/social-media-buttons/data/networks.php:92
+msgid "Behance"
+msgstr "Behance"
+
+#: widgets/social-media-buttons/data/networks.php:77
+msgid "Vine"
+msgstr "Vine"
+
+#: widgets/social-media-buttons/data/networks.php:71
+msgid "Flickr"
+msgstr "Flickr"
+
+#: widgets/social-media-buttons/data/networks.php:65
+msgid "VK"
+msgstr "VK"
+
+#: widgets/social-media-buttons/data/networks.php:59
+msgid "Instagram"
+msgstr "Instagram"
+
+#: widgets/social-media-buttons/data/networks.php:53
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: widgets/social-media-buttons/data/networks.php:47
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: widgets/social-media-buttons/data/networks.php:41
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: widgets/contact/contact.php:127
+#: widgets/social-media-buttons/data/networks.php:29
+msgid "Email"
+msgstr "E-mail"
+
+#: widgets/social-media-buttons/data/networks.php:23
+msgid "RSS"
+msgstr "RSS"
+
+#: widgets/social-media-buttons/data/networks.php:17
+msgid "Google+"
+msgstr "Google+"
+
+#: widgets/social-media-buttons/data/networks.php:11
+msgid "Twitter"
+msgstr "Twitter"
+
+#: widgets/social-media-buttons/data/networks.php:5
+msgid "Facebook"
+msgstr "Facebook"
+
+#: widgets/slider/slider.php:96
+msgid "Controls"
+msgstr "Управление"
+
+#: widgets/slider/slider.php:78
+msgid "Foreground image"
+msgstr "Изображение переднего плана"
+
+#: widgets/slider/slider.php:70
+msgid "Tile"
+msgstr "Плитка (Tile)"
+
+#: widgets/hero/hero.php:97 widgets/layout-slider/layout-slider.php:65
+#: widgets/slider/slider.php:69
+msgid "Cover"
+msgstr "Обложка (Cover)"
+
+#: widgets/hero/hero.php:95 widgets/layout-slider/layout-slider.php:63
+#: widgets/slider/slider.php:67
+msgid "Background image type"
+msgstr "Тип фона изображения"
+
+#: widgets/slider/slider.php:62
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: widgets/layout-slider/layout-slider.php:34 widgets/slider/slider.php:33
+msgid "Slider frames"
+msgstr "Кадры слайдера"
+
+#: widgets/slider/slider.php:17
+msgid "A responsive slider widget that supports images and video."
+msgstr "Адаптивный виджет слайдера, который поддерживает изображения и видео."
+
+#: widgets/slider/slider.php:15
+msgid "SiteOrigin Slider"
+msgstr "SiteOrigin Слайдер"
+
+#: widgets/price-table/price-table.php:160
+msgid "Open Button URL in a new window"
+msgstr "Открыть URL Кнопки в новом окне"
+
+#: widgets/price-table/price-table.php:155
+msgid "Featured button color"
+msgstr "Цвет кнопки для избранного"
+
+#: widgets/price-table/price-table.php:145
+msgid "Featured header color"
+msgstr "Цвет заголовка для избранного"
+
+#: widgets/price-table/price-table.php:140
+msgid "Header color"
+msgstr "Цвет заголовка"
+
+#: widgets/price-table/price-table.php:132
+msgid "Price table theme"
+msgstr "Тема таблицы прайса"
+
+#: widgets/price-table/price-table.php:115
+msgid "Hover text"
+msgstr "Hover текст"
+
+#: widgets/price-table/price-table.php:97
+msgid "Button URL"
+msgstr "URL Кнопки"
+
+#: widgets/price-table/price-table.php:89
+msgid "Per"
+msgstr "в"
+
+#: widgets/price-table/price-table.php:85
+msgid "Price"
+msgstr "Цена"
+
+#: widgets/contact/contact.php:228 widgets/image-grid/image-grid.php:52
+#: widgets/image-grid/image-grid.php:61 widgets/price-table/price-table.php:70
+#: widgets/simple-masonry/simple-masonry.php:66
+#: widgets/testimonial/testimonial.php:71
+#: widgets/testimonial/testimonial.php:187
+msgid "Image"
+msgstr "Изображение"
+
+#: widgets/price-table/price-table.php:57
+msgid "Featured"
+msgstr "Рекомендуемые"
+
+#: widgets/price-table/price-table.php:48
+msgid "Column"
+msgstr "Колонка"
+
+#: widgets/price-table/price-table.php:47
+msgid "Columns"
+msgstr "Колонки"
+
+#: widgets/price-table/price-table.php:15
+msgid "A simple Price Table."
+msgstr "Простая ценовая таблица."
+
+#: widgets/price-table/price-table.php:13
+msgid "SiteOrigin Price Table"
+msgstr "SiteOrigin Ценовая Таблица"
+
+#: widgets/post-carousel/tpl/base.php:11 widgets/post-carousel/tpl/base.php:16
+msgid "Previous"
+msgstr "Назад"
+
+#: widgets/post-carousel/tpl/base.php:10 widgets/post-carousel/tpl/base.php:18
+msgid "Next"
+msgstr "Далее"
+
+#: widgets/post-carousel/post-carousel.php:102
+msgid "Posts query"
+msgstr "Запрос статей"
+
+#: widgets/post-carousel/post-carousel.php:46
+msgid "Display your posts as a carousel."
+msgstr "Отражает ваши статьи каруселью."
+
+#: widgets/post-carousel/post-carousel.php:44
+msgid "SiteOrigin Post Carousel"
+msgstr "SiteOrigin Карусель из материалов блога"
+
+#: widgets/image/image.php:94
+msgid "Resize image to fit its container."
+msgstr "Изменение размера изображения в соответствии с его контейнером."
+
+#: widgets/image/image.php:93
+msgid "Full Width"
+msgstr "Во всю ширину"
+
+#: widgets/image/image.php:88
+msgid "Make sure the image doesn't extend beyond its container."
+msgstr "Убедиться, что изображение не выходит за пределы контейнера."
+
+#: widgets/image/image.php:87
+msgid "Bound"
+msgstr "Граница"
+
+#: widgets/image/image.php:81 widgets/slider/slider.php:89
+msgid "Open in new window"
+msgstr "Открыть в новом окне"
+
+#: widgets/image/image.php:71
+msgid "Alt text"
+msgstr "Alt текст"
+
+#: base/inc/fields/image-size.class.php:14
+msgid "Full"
+msgstr "Полный (Full)"
+
+#: widgets/image/image.php:38 widgets/image-grid/image-grid.php:79
+#: widgets/testimonial/testimonial.php:130
+#: widgets/testimonial/testimonial.php:159
+#: widgets/testimonial/testimonial.php:201
+msgid "Image size"
+msgstr "Размер изображения"
+
+#: widgets/image/image.php:31
+msgid "Image file"
+msgstr "Файл изображения"
+
+#: widgets/image/image.php:15
+msgid "A simple image widget with massive power."
+msgstr "Простой виджет изображения с массой настроек."
+
+#: widgets/image/image.php:13
+msgid "SiteOrigin Image"
+msgstr "SiteOrigin изображение"
+
+#: widgets/hero/hero.php:219 widgets/layout-slider/layout-slider.php:174
+msgid "Text size"
+msgstr "Размер текста"
+
+#: widgets/hero/hero.php:211 widgets/layout-slider/layout-slider.php:166
+msgid "Heading shadow intensity"
+msgstr "Интенсивность тени для Заголовка"
+
+#: widgets/hero/hero.php:198 widgets/layout-slider/layout-slider.php:160
+msgid "Heading size"
+msgstr "Размер для Заголовок"
+
+#: widgets/hero/hero.php:186
+msgid "Heading font"
+msgstr "Шрифт для Заголовока"
+
+#: widgets/hero/hero.php:180 widgets/layout-slider/layout-slider.php:148
+msgid "Maximum container width"
+msgstr "Максимальная ширина контейнера"
+
+#: widgets/hero/hero.php:174 widgets/layout-slider/layout-slider.php:142
+msgid "Side padding"
+msgstr "Боковой отступ"
+
+#: widgets/hero/hero.php:161 widgets/layout-slider/layout-slider.php:129
+msgid "Top and bottom padding"
+msgstr "Верхний и нижний отступ (padding)"
+
+#: widgets/hero/hero.php:150 widgets/layout-slider/layout-slider.php:118
+msgid "Design and Layout"
+msgstr "Дизайн и верстка"
+
+#: widgets/hero/hero.php:144 widgets/layout-slider/layout-slider.php:112
+msgid "Slider Controls"
+msgstr "Управление слайдером"
+
+#: widgets/hero/hero.php:129 widgets/layout-slider/layout-slider.php:97
+#: widgets/slider/slider.php:44
+msgid "Background videos"
+msgstr "Фоновые видео"
+
+#: widgets/hero/hero.php:128 widgets/layout-slider/layout-slider.php:96
+#: widgets/slider/slider.php:43
+msgid "Video"
+msgstr "Видео"
+
+#: widgets/hero/hero.php:103 widgets/layout-slider/layout-slider.php:71
+msgid "Background image opacity"
+msgstr "Прозрачность фона изображения"
+
+#: widgets/hero/hero.php:88 widgets/layout-slider/layout-slider.php:56
+#: widgets/slider/slider.php:56
+msgid "Background image"
+msgstr "Изображение на заднем плане"
+
+#: widgets/contact/contact.php:399 widgets/hero/hero.php:84
+#: widgets/layout-slider/layout-slider.php:52
+msgid "Background"
+msgstr "Фон"
+
+#: widgets/hero/hero.php:65
+msgid "Add [buttons] shortcode to the content to insert these buttons."
+msgstr "Добавь [buttons] шорткод в контент, чтобы вставить эти кнопки."
+
+#: widgets/hero/hero.php:63 widgets/taxonomy/taxonomy.php:49
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: widgets/hero/hero.php:58 widgets/layout-slider/layout-slider.php:47
+msgid "Content"
+msgstr "Содержимое"
+
+#: widgets/hero/hero.php:47 widgets/layout-slider/layout-slider.php:35
+#: widgets/slider/slider.php:34
+msgid "Frame"
+msgstr "Кадр"
+
+#: widgets/hero/hero.php:46
+msgid "Hero frames"
+msgstr "Основные кадры"
+
+#: widgets/hero/hero.php:20
+msgid "A big hero image with a few settings to make it your own."
+msgstr "Большое изображение/изображения с несколькими настройками."
+
+#: widgets/hero/hero.php:18
+msgid "SiteOrigin Hero"
+msgstr "SiteOrigin Hero"
+
+#: widgets/contact/contact.php:312 widgets/contact/contact.php:425
+#: widgets/contact/contact.php:597 widgets/headline/headline.php:192
+msgid "Outset"
+msgstr "Внешняя рамка"
+
+#: widgets/contact/contact.php:311 widgets/contact/contact.php:424
+#: widgets/contact/contact.php:596 widgets/headline/headline.php:191
+msgid "Inset"
+msgstr "Внутренняя рамка"
+
+#: widgets/contact/contact.php:310 widgets/contact/contact.php:423
+#: widgets/contact/contact.php:595 widgets/headline/headline.php:190
+msgid "Ridge"
+msgstr "Ребром"
+
+#: widgets/contact/contact.php:309 widgets/contact/contact.php:422
+#: widgets/contact/contact.php:594 widgets/headline/headline.php:189
+msgid "Groove"
+msgstr "Выемкой"
+
+#: widgets/contact/contact.php:308 widgets/contact/contact.php:421
+#: widgets/contact/contact.php:593 widgets/headline/headline.php:188
+msgid "Double"
+msgstr "Двойной"
+
+#: widgets/contact/contact.php:306 widgets/contact/contact.php:419
+#: widgets/contact/contact.php:530 widgets/contact/contact.php:591
+#: widgets/headline/headline.php:187
+msgid "Dashed"
+msgstr "Пунктирный"
+
+#: widgets/contact/contact.php:305 widgets/contact/contact.php:418
+#: widgets/contact/contact.php:529 widgets/contact/contact.php:590
+#: widgets/headline/headline.php:186
+msgid "Dotted"
+msgstr "Пунктирный"
+
+#: widgets/contact/contact.php:307 widgets/contact/contact.php:420
+#: widgets/contact/contact.php:528 widgets/contact/contact.php:592
+#: widgets/headline/headline.php:185
+msgid "Solid"
+msgstr "Сплошной"
+
+#: widgets/headline/headline.php:176 widgets/headline/headline.php:235
+msgid "Divider"
+msgstr "Разделитель"
+
+#: widgets/headline/headline.php:105
+msgid "Sub headline"
+msgstr "Подзаголовок"
+
+#: widgets/button/button.php:135 widgets/contact/contact.php:324
+#: widgets/contact/contact.php:374 widgets/features/features.php:137
+#: widgets/features/features.php:158 widgets/features/features.php:179
+#: widgets/headline/headline.php:74 widgets/headline/headline.php:145
+msgid "Font"
+msgstr "Шрифт"
+
+#: widgets/headline/headline.php:34 widgets/headline/headline.php:234
+msgid "Headline"
+msgstr "Заголовок"
+
+#: widgets/headline/headline.php:18
+msgid "A headline widget."
+msgstr "Виджет для создания заголовка."
+
+#: widgets/headline/headline.php:16
+msgid "SiteOrigin Headline"
+msgstr "SiteOrigin Заголовок"
+
+#: widgets/google-map/google-map.php:544
+msgid "Custom Map"
+msgstr "Пользовательская карта"
+
+#: widgets/google-map/google-map.php:49 widgets/google-map/google-map.php:54
+#: widgets/google-map/google-map.php:415
+msgid "API key"
+msgstr "Ключ API"
+
+#: widgets/google-map/google-map.php:404
+msgid "Allow the Google Maps service to reorder waypoints for the shortest travelling distance."
+msgstr "Разрешить сервису Google Maps изменить порядок waypoints для кратчайшего расстояния."
+
+#: widgets/google-map/google-map.php:402
+msgid "Optimize waypoints"
+msgstr "Оптимизация waypoints"
+
+#: widgets/google-map/google-map.php:396
+msgid "Whether or not this is a stop on the route or just a route preference."
+msgstr "Является ли это остановка на маршруте или просто предпочтение маршруту."
+
+#: widgets/google-map/google-map.php:395
+msgid "Stopover"
+msgstr "Остановка"
+
+#: widgets/google-map/google-map.php:390 widgets/testimonial/testimonial.php:65
+msgid "Location"
+msgstr "Местонахождение"
+
+#: widgets/google-map/google-map.php:380
+msgid "Waypoint"
+msgstr "Путевая точка"
+
+#: widgets/google-map/google-map.php:379
+msgid "Waypoints"
+msgstr "Путевые точки"
+
+#: widgets/google-map/google-map.php:375
+msgid "Avoid tolls"
+msgstr "Избегать платных дорог"
+
+#: widgets/google-map/google-map.php:371
+msgid "Avoid highways"
+msgstr "Избегать шоссе"
+
+#: widgets/google-map/google-map.php:366
+msgid "Transit"
+msgstr "Транзит"
+
+#: widgets/google-map/google-map.php:365
+msgid "Bicycling"
+msgstr "Велосипед"
+
+#: widgets/google-map/google-map.php:364
+msgid "Walking"
+msgstr "Ходьба"
+
+#: widgets/google-map/google-map.php:363
+msgid "Driving"
+msgstr "Вождение"
+
+#: widgets/google-map/google-map.php:360
+msgid "Travel mode"
+msgstr "Режим передвижения"
+
+#: widgets/google-map/google-map.php:356
+msgid "Destination"
+msgstr "Место назначения"
+
+#: widgets/google-map/google-map.php:352
+msgid "Starting point"
+msgstr "Отправная точка"
+
+#: widgets/google-map/google-map.php:348
+msgid "Display a route on your map, with waypoints between your starting point and destination."
+msgstr "Показать маршрут на карте, с путевыми точками между отправной точкой и точкой назначения."
+
+#: widgets/google-map/google-map.php:342
+msgid "Directions"
+msgstr "Направления"
+
+#: widgets/contact/contact.php:334 widgets/contact/contact.php:449
+#: widgets/contact/contact.php:604 widgets/features/features.php:146
+#: widgets/features/features.php:167 widgets/features/features.php:188
+#: widgets/google-map/google-map.php:334 widgets/headline/headline.php:66
+#: widgets/headline/headline.php:137 widgets/headline/headline.php:197
+#: widgets/icon/icon.php:35 widgets/taxonomy/taxonomy.php:54
+msgid "Color"
+msgstr "Цвет"
+
+#: widgets/google-map/google-map.php:330
+msgid "Visible"
+msgstr "Видимый"
+
+#: widgets/google-map/google-map.php:323
+msgid "Labels"
+msgstr "Метки"
+
+#: widgets/google-map/google-map.php:322
+msgid "Geometry"
+msgstr "Геометрия"
+
+#: widgets/google-map/google-map.php:320
+msgid "Select element type to style"
+msgstr "Выберите тип элемента для стиля"
+
+#: widgets/google-map/google-map.php:315
+msgid "Point of interest - Sports complexes"
+msgstr "Достопримечательности - Спортивные комплексы"
+
+#: widgets/google-map/google-map.php:314
+msgid "Point of interest - Schools"
+msgstr "Достопримечательности - Школы"
+
+#: widgets/google-map/google-map.php:313
+msgid "Point of interest - Places of worship"
+msgstr "Достопримечательности - Места богослужения"
+
+#: widgets/google-map/google-map.php:312
+msgid "Point of interest - Parks"
+msgstr "Достопримечательности - Парки"
+
+#: widgets/google-map/google-map.php:311
+msgid "Point of interest - Medical"
+msgstr "Достопримечательности - Медицина"
+
+#: widgets/google-map/google-map.php:310
+msgid "Point of interest - Government"
+msgstr "Достопримечательности - Правительство"
+
+#: widgets/google-map/google-map.php:309
+msgid "Point of interest - Business"
+msgstr "Достопримечательности - Бизнес"
+
+#: widgets/google-map/google-map.php:308
+msgid "Point of interest - Attractions"
+msgstr "Достопримечательности"
+
+#: widgets/google-map/google-map.php:307
+msgid "Natural landscape terrain"
+msgstr "Природный ландшафт местности"
+
+#: widgets/google-map/google-map.php:306
+msgid "Natural landscape landcover"
+msgstr "Природный ландшафт"
+
+#: widgets/google-map/google-map.php:305
+msgid "Man-made landscape"
+msgstr "Искусственный пейзаж"
+
+#: widgets/google-map/google-map.php:304
+msgid "Transit stations"
+msgstr "Транзитные станции"
+
+#: widgets/google-map/google-map.php:303
+msgid "Transit lines"
+msgstr "Линии перехода"
+
+#: widgets/google-map/google-map.php:302
+msgid "Local roads"
+msgstr "Местные дороги"
+
+#: widgets/google-map/google-map.php:301
+msgid "Arterial roads"
+msgstr "Магистральный улицы"
+
+#: widgets/google-map/google-map.php:300
+msgid "Highways"
+msgstr "Хайвеи"
+
+#: widgets/google-map/google-map.php:299
+msgid "Water"
+msgstr "Вода"
+
+#: widgets/google-map/google-map.php:297
+msgid "Select map feature to style"
+msgstr "Выберите карту для стиля"
+
+#: widgets/contact/contact.php:454 widgets/contact/contact.php:587
+#: widgets/google-map/google-map.php:287 widgets/headline/headline.php:181
+msgid "Style"
+msgstr "Стиль"
+
+#: widgets/google-map/google-map.php:286
+msgid "Custom map styles"
+msgstr "Пользовательские стили карты"
+
+#: widgets/google-map/google-map.php:278
+msgid "Copy and paste predefined styles here from <a href=\"http://snazzymaps.com/\" target=\"_blank\">Snazzy Maps</a>."
+msgstr "Скопируйте и вставьте заранее заданные стили из <a href=\"http://snazzymaps.com/\" target=\"_blank\">Snazzy Maps</a>."
+
+#: widgets/google-map/google-map.php:277
+msgid "Raw JSON styles"
+msgstr "Raw JSON стили"
+
+#: widgets/google-map/google-map.php:267
+msgid "Styled map name"
+msgstr "Стилизованное название карты"
+
+#: widgets/google-map/google-map.php:258
+msgid "Predefined Styles"
+msgstr "Предварительно определенные стили"
+
+#: widgets/google-map/google-map.php:257
+msgid "Custom"
+msgstr "Выбираемый самостоятельно "
+
+#: widgets/google-map/google-map.php:250
+msgid "Map styles"
+msgstr "Стили Карты"
+
+#: widgets/google-map/google-map.php:245
+msgid "Apply custom colors to map features, or hide them completely."
+msgstr "Применить пользовательские цвета для отображения особенностей, или скрыть их полностью."
+
+#: widgets/google-map/google-map.php:243
+msgid "Styles"
+msgstr "Стили"
+
+#: widgets/google-map/google-map.php:230
+msgid "Always"
+msgstr "Всегда"
+
+#: widgets/google-map/google-map.php:229
+msgid "Mouse over"
+msgstr "Наведение указателя мыши"
+
+#: widgets/google-map/google-map.php:228
+msgid "Click"
+msgstr "Клик"
+
+#: widgets/google-map/google-map.php:225
+msgid "When should Info Windows be displayed?"
+msgstr "Когда информационное окно должно отображаться?"
+
+#: widgets/google-map/google-map.php:219
+msgid "Info Window max width"
+msgstr "Максимальная ширина информационного окна"
+
+#: widgets/google-map/google-map.php:215
+msgid "Info Window Content"
+msgstr "Окно информации"
+
+#: widgets/google-map/google-map.php:210
+msgid "Place"
+msgstr "Место"
+
+#: widgets/google-map/google-map.php:200
+msgid "Marker"
+msgstr "Маркер"
+
+#: widgets/google-map/google-map.php:199
+msgid "Please be aware that adding more than 10 markers may cause a slight delay before they appear, due to Google Geocoding API rate limits."
+msgstr "Обратите внимание, что при добавлении более 10 маркеров может вызвать небольшую задержку, прежде чем они появляются, из-за ограничений скорости API Google геокодирования."
+
+#: widgets/google-map/google-map.php:198
+msgid "Marker positions"
+msgstr "Позиции маркера"
+
+#: widgets/google-map/google-map.php:194
+msgid "Draggable markers"
+msgstr "Перетаскиваемые маркеры"
+
+#: widgets/google-map/google-map.php:185
+msgid "Replaces the default map marker with your own image."
+msgstr "Заменяет маркер карты по умолчанию на собственное изображение."
+
+#: widgets/google-map/google-map.php:184
+msgid "Marker icon"
+msgstr "Иконка маркера"
+
+#: widgets/google-map/google-map.php:179
+msgid "Show marker at map center"
+msgstr "Показать маркер в центре карты"
+
+#: widgets/google-map/google-map.php:174
+msgid "Use markers to identify points of interest on the map."
+msgstr "Использование маркеров для идентификации точек на карте."
+
+#: widgets/google-map/google-map.php:172
+msgid "Markers"
+msgstr "Маркеры"
+
+#: widgets/google-map/google-map.php:166
+msgid "Keeps the map centered when it's container is resized."
+msgstr "Сохраняет карту по центру, когда изменятся размер контейнера."
+
+#: widgets/google-map/google-map.php:165
+msgid "Keep map centered"
+msgstr "Держать карту по центру"
+
+#: widgets/google-map/google-map.php:156
+msgid "Hides the default Google Maps controls."
+msgstr "Скрывает по умолчанию управления Карт Google."
+
+#: widgets/google-map/google-map.php:155
+msgid "Disable default UI"
+msgstr "Отключить пользовательский интерфейс по умолчанию"
+
+#: widgets/google-map/google-map.php:146
+msgid "Allow dragging the map to move it around."
+msgstr "Разрешить перетаскивать карту."
+
+#: widgets/google-map/google-map.php:145
+msgid "Draggable"
+msgstr "Перетаскиваемая"
+
+#: widgets/google-map/google-map.php:136
+msgid "Allow scrolling over the map to zoom in or out."
+msgstr "Разрешить прокрутку над картой, чтобы увеличить или уменьшить масштаб."
+
+#: widgets/google-map/google-map.php:135
+msgid "Scroll to zoom"
+msgstr "Прокрутка для увеличения"
+
+#: widgets/google-map/google-map.php:121
+msgid "A value from 0 (the world) to 21 (street level)."
+msgstr "Значение от 0 (в мире) до 21 (уровень улицы)."
+
+#: widgets/google-map/google-map.php:120
+msgid "Zoom level"
+msgstr "Уровень масштабирования"
+
+#: widgets/contact/contact.php:395 widgets/google-map/google-map.php:96
+#: widgets/hero/hero.php:155 widgets/layout-slider/layout-slider.php:123
+msgid "Height"
+msgstr "Высота"
+
+#: widgets/button/button.php:89 widgets/contact/contact.php:351
+#: widgets/contact/contact.php:609 widgets/google-map/google-map.php:91
+msgid "Width"
+msgstr "Ширина"
+
+#: widgets/google-map/google-map.php:80
+msgid "Static image"
+msgstr "Статическое изображение"
+
+#: widgets/google-map/google-map.php:79
+msgid "Interactive"
+msgstr "Интерактивный"
+
+#: widgets/google-map/google-map.php:73
+msgid "Map type"
+msgstr "Тип карты"
+
+#: widgets/google-map/google-map.php:68
+msgid "Set map display options."
+msgstr "Установите параметры отображения карты."
+
+#: admin/tpl/admin.php:86 widgets/contact/contact.php:58
+#: widgets/google-map/google-map.php:66 widgets/testimonial/testimonial.php:99
+msgid "Settings"
+msgstr "Настройки"
+
+#: widgets/google-map/google-map.php:45
+msgid "The name of a place, town, city, or even a country. Can be an exact address too."
+msgstr "Название места, города, города или даже страны. Может быть так же и точный адрес."
+
+#: widgets/google-map/google-map.php:44
+msgid "Map center"
+msgstr "Центр карты"
+
+#: widgets/google-map/google-map.php:18
+msgid "A Google Maps widget."
+msgstr "Виджет Google Карт."
+
+#: widgets/google-map/google-map.php:16
+msgid "SiteOrigin Google Maps"
+msgstr "SiteOrigin Google Карты"
+
+#: widgets/features/features.php:240
+msgid "Open more URL in a new window"
+msgstr "Открыть в новом окне"
+
+#: widgets/features/features.php:234
+msgid "Link icon to more URL"
+msgstr "Иконка как ссылка"
+
+#: widgets/features/features.php:228
+msgid "Link feature title to more URL"
+msgstr "Название ссылки для URL"
+
+#: widgets/features/features.php:222
+msgid "Responsive layout"
+msgstr "Адаптивный макет"
+
+#: widgets/features/features.php:216
+msgid "Features per row"
+msgstr "Особенностей в строке"
+
+#: widgets/features/features.php:210
+#: widgets/social-media-buttons/social-media-buttons.php:105
+msgid "Icon size"
+msgstr "Размер иконок"
+
+#: widgets/features/features.php:204
+msgid "Container size"
+msgstr "Размер контейнера"
+
+#: widgets/features/features.php:197
+msgid "Container shape"
+msgstr "Форма контейнера"
+
+#: widgets/features/features.php:120
+msgid "More link URL"
+msgstr "Ссылка URL для Подробнее"
+
+#: widgets/features/features.php:115
+msgid "More link text"
+msgstr "Текст ссылки Подробнее"
+
+#: widgets/contact/contact.php:129 widgets/features/features.php:110
+#: widgets/features/features.php:153 widgets/headline/headline.php:39
+#: widgets/headline/headline.php:110 widgets/price-table/price-table.php:111
+#: widgets/testimonial/testimonial.php:81
+msgid "Text"
+msgstr "Текстовое поле"
+
+#: widgets/features/features.php:105 widgets/image/image.php:55
+msgid "Title text"
+msgstr "Текст заголовка"
+
+#: widgets/features/features.php:93
+msgid "Use your own icon image."
+msgstr "Используйте свое собственное изображение для иконки."
+
+#: widgets/features/features.php:92
+msgid "Icon image"
+msgstr "Изображение иконки"
+
+#: widgets/features/features.php:55
+msgid "Container color"
+msgstr "Цвет для контейнер"
+
+#: widgets/features/features.php:43 widgets/price-table/price-table.php:102
+msgid "Feature"
+msgstr "Особенность"
+
+#: widgets/features/features.php:42 widgets/price-table/price-table.php:101
+msgid "Features"
+msgstr "Особенности"
+
+#: widgets/features/features.php:15
+msgid "Displays a list of features."
+msgstr "Отображает список особенностей."
+
+#: widgets/features/features.php:13
+msgid "SiteOrigin Features"
+msgstr "SiteOrigin Особенности"
+
+#: widgets/editor/editor.php:40
+msgid "Automatically add paragraphs"
+msgstr "Автоматическое добавление параграфов"
+
+#: widgets/editor/editor.php:18
+msgid "A rich-text, text editor."
+msgstr "Текстовый редактор."
+
+#: widgets/editor/editor.php:16
+msgid "SiteOrigin Editor"
+msgstr "SiteOrigin редактор"
+
+#: widgets/cta/cta.php:106 widgets/hero/hero.php:64 widgets/hero/hero.php:76
+msgid "Button"
+msgstr "Кнопка"
+
+#: widgets/cta/cta.php:93
+msgid "Button align"
+msgstr "Выравнивание для кнопки"
+
+#: widgets/contact/contact.php:290 widgets/contact/contact.php:403
+#: widgets/contact/contact.php:519 widgets/cta/cta.php:81
+msgid "Border color"
+msgstr "Цвет границы"
+
+#: widgets/contact/contact.php:280 widgets/contact/contact.php:509
+#: widgets/cta/cta.php:77 widgets/hero/hero.php:112
+#: widgets/layout-slider/layout-slider.php:80
+#: widgets/social-media-buttons/social-media-buttons.php:74
+msgid "Background color"
+msgstr "Фоновый цвет"
+
+#: widgets/contact/contact.php:270 widgets/cta/cta.php:73
+#: widgets/testimonial/testimonial.php:182
+msgid "Design"
+msgstr "Дизайн"
+
+#: widgets/cta/cta.php:68 widgets/price-table/price-table.php:65
+msgid "Subtitle"
+msgstr "подзаголовок"
+
+#: widgets/cta/cta.php:17
+msgid "A simple call-to-action widget with massive power."
+msgstr "Простой виджет призыва к действию с массой настроек."
+
+#: widgets/cta/cta.php:15
+msgid "SiteOrigin Call-to-action"
+msgstr "SiteOrigin Призыв к действию"
+
+#: widgets/button/button.php:203
+msgid "Run this Javascript when the button is clicked. Ideal for tracking."
+msgstr "Выполнить этот Javascript, когда кнопка нажата. Идеально подходит для отслеживания."
+
+#: widgets/button/button.php:202
+msgid "Onclick"
+msgstr "По щелчку (Onclick)"
+
+#: widgets/button/button.php:197
+msgid "Adds a title attribute to the button link."
+msgstr "Добавляет атрибут заголовка к ссылке кнопки."
+
+#: widgets/button/button.php:196
+msgid "Title attribute"
+msgstr "Атрибут Title"
+
+#: widgets/button/button.php:185
+msgid "An ID attribute allows you to target this button in Javascript."
+msgstr "Атрибут ID позволяет настроить таргетинг на эту кнопку в Javascript."
+
+#: widgets/button/button.php:184
+msgid "Button ID"
+msgstr "ID Кнопки"
+
+#: widgets/button/button.php:179
+msgid "Other attributes and SEO"
+msgstr "Другие атрибуты и SEO"
+
+#: widgets/button/button.php:170
+#: widgets/social-media-buttons/social-media-buttons.php:132
+#: widgets/social-media-buttons/social-media-buttons.php:154
+msgid "Very high"
+msgstr "Очень высокий"
+
+#: widgets/button/button.php:169
+#: widgets/social-media-buttons/social-media-buttons.php:131
+#: widgets/social-media-buttons/social-media-buttons.php:153
+msgid "High"
+msgstr "Высокий"
+
+#: widgets/button/button.php:167
+#: widgets/social-media-buttons/social-media-buttons.php:129
+#: widgets/social-media-buttons/social-media-buttons.php:151
+msgid "Low"
+msgstr "Низкий"
+
+#: widgets/button/button.php:164 widgets/contact/contact.php:285
+#: widgets/contact/contact.php:391 widgets/contact/contact.php:567
+#: widgets/social-media-buttons/social-media-buttons.php:126
+#: widgets/testimonial/testimonial.php:233
+msgid "Padding"
+msgstr "Отступ"
+
+#: widgets/button/button.php:158
+#: widgets/social-media-buttons/social-media-buttons.php:121
+msgid "Completely rounded"
+msgstr "Полностью округленный"
+
+#: widgets/button/button.php:157
+#: widgets/social-media-buttons/social-media-buttons.php:120
+msgid "Very rounded"
+msgstr "Сильно закруглены"
+
+#: widgets/button/button.php:156
+#: widgets/social-media-buttons/social-media-buttons.php:119
+msgid "Slightly rounded"
+msgstr "Слегка закруглены"
+
+#: widgets/button/button.php:155 widgets/contact/contact.php:303
+#: widgets/contact/contact.php:416 widgets/contact/contact.php:527
+#: widgets/contact/contact.php:598 widgets/headline/headline.php:184
+#: widgets/social-media-buttons/social-media-buttons.php:118
+msgid "None"
+msgstr "Отсутствует"
+
+#: widgets/button/button.php:152
+#: widgets/social-media-buttons/social-media-buttons.php:115
+msgid "Rounding"
+msgstr "Округление"
+
+#: widgets/button/button.php:146
+#: widgets/social-media-buttons/social-media-buttons.php:110
+msgid "Extra large"
+msgstr "Огромный"
+
+#: widgets/button/button.php:145
+#: widgets/social-media-buttons/social-media-buttons.php:109
+msgid "Large"
+msgstr "Большой"
+
+#: widgets/button/button.php:143 widgets/contact/contact.php:237
+#: widgets/contact/contact.php:458 widgets/contact/contact.php:560
+#: widgets/social-media-buttons/social-media-buttons.php:107
+msgid "Normal"
+msgstr "Обычный"
+
+#: widgets/button/button.php:141 widgets/contact/contact.php:329
+#: widgets/contact/contact.php:552
+msgid "Font size"
+msgstr "Размер шрифта"
+
+#: widgets/button/button.php:130
+#: widgets/social-media-buttons/social-media-buttons.php:100
+msgid "Use hover effects"
+msgstr "Использовать эффект при наведении курсора"
+
+#: widgets/button/button.php:124 widgets/contact/contact.php:547
+#: widgets/hero/hero.php:225 widgets/layout-slider/layout-slider.php:180
+msgid "Text color"
+msgstr "Цвет текста"
+
+#: widgets/button/button.php:119 widgets/price-table/price-table.php:150
+msgid "Button color"
+msgstr "Цвет кнопки"
+
+#: widgets/button/button.php:112
+#: widgets/social-media-buttons/social-media-buttons.php:95
+msgid "Wire"
+msgstr "Wire"
+
+#: widgets/button/button.php:111
+#: widgets/social-media-buttons/social-media-buttons.php:94
+msgid "Flat"
+msgstr "Плоский"
+
+#: widgets/button/button.php:110 widgets/price-table/price-table.php:134
+#: widgets/social-media-buttons/social-media-buttons.php:93
+msgid "Atom"
+msgstr "Atom"
+
+#: widgets/button/button.php:107
+#: widgets/social-media-buttons/social-media-buttons.php:90
+msgid "Button theme"
+msgstr "Тема для кнопки"
+
+#: widgets/button/button.php:101 widgets/contact/contact.php:362
+#: widgets/headline/headline.php:89 widgets/headline/headline.php:160
+#: widgets/social-media-buttons/social-media-buttons.php:143
+msgid "Justify"
+msgstr "По ширине"
+
+#: widgets/button/button.php:100 widgets/contact/contact.php:361
+#: widgets/headline/headline.php:86 widgets/headline/headline.php:157
+#: widgets/headline/headline.php:212 widgets/icon/icon.php:47
+#: widgets/image/image.php:49
+#: widgets/social-media-buttons/social-media-buttons.php:142
+msgid "Center"
+msgstr "В центре"
+
+#: widgets/button/button.php:99 widgets/contact/contact.php:345
+#: widgets/contact/contact.php:360 widgets/cta/cta.php:97
+#: widgets/features/features.php:64 widgets/headline/headline.php:88
+#: widgets/headline/headline.php:159 widgets/headline/headline.php:214
+#: widgets/icon/icon.php:49 widgets/image/image.php:48
+#: widgets/social-media-buttons/social-media-buttons.php:141
+#: widgets/testimonial/testimonial.php:254
+msgid "Right"
+msgstr "Справа"
+
+#: widgets/button/button.php:98 widgets/contact/contact.php:344
+#: widgets/contact/contact.php:359 widgets/cta/cta.php:96
+#: widgets/features/features.php:66 widgets/headline/headline.php:87
+#: widgets/headline/headline.php:158 widgets/headline/headline.php:213
+#: widgets/icon/icon.php:48 widgets/image/image.php:47
+#: widgets/social-media-buttons/social-media-buttons.php:140
+#: widgets/testimonial/testimonial.php:253
+msgid "Left"
+msgstr "Слева"
+
+#: widgets/button/button.php:95 widgets/contact/contact.php:356
+#: widgets/social-media-buttons/social-media-buttons.php:137
+msgid "Align"
+msgstr "Выравнивание"
+
+#: widgets/button/button.php:83
+#: widgets/social-media-buttons/social-media-buttons.php:80
+msgid "Design and layout"
+msgstr "Дизайн и верстка"
+
+#: widgets/button/button.php:76
+msgid "Replaces the icon with your own image icon."
+msgstr "Заменяет иконку на ваше собственное изображение."
+
+#: widgets/button/button.php:75
+msgid "Image icon"
+msgstr "Изображение иконки"
+
+#: widgets/button/button.php:70 widgets/features/features.php:85
+#: widgets/price-table/price-table.php:123
+#: widgets/social-media-buttons/social-media-buttons.php:70
+msgid "Icon color"
+msgstr "Цвет икони"
+
+#: widgets/button/button.php:61 widgets/button/button.php:65
+#: widgets/features/features.php:75 widgets/icon/icon.php:30
+#: widgets/price-table/price-table.php:119
+msgid "Icon"
+msgstr "Икона"
+
+#: widgets/button/button.php:56 widgets/google-map/google-map.php:111
+#: widgets/headline/headline.php:48 widgets/headline/headline.php:119
+#: widgets/icon/icon.php:62 widgets/simple-masonry/simple-masonry.php:95
+#: widgets/social-media-buttons/social-media-buttons.php:85
+#: widgets/taxonomy/taxonomy.php:63
+msgid "Open in a new window"
+msgstr "Открыть в новом окне"
+
+#: widgets/button/button.php:50 widgets/google-map/google-map.php:100
+#: widgets/headline/headline.php:43 widgets/headline/headline.php:114
+#: widgets/hero/hero.php:118 widgets/icon/icon.php:56
+#: widgets/image/image.php:76 widgets/layout-slider/layout-slider.php:86
+#: widgets/simple-masonry/simple-masonry.php:90 widgets/slider/slider.php:84
+msgid "Destination URL"
+msgstr "URL назначения"
+
+#: widgets/button/button.php:45 widgets/price-table/price-table.php:93
+msgid "Button text"
+msgstr "Текст кнопки"
+
+#: widgets/button/button.php:16
+msgid "A customizable button widget."
+msgstr "Настраиваемый виджет кнопки."
+
+#: widgets/button/button.php:14
+msgid "SiteOrigin Button"
+msgstr "SiteOrigin Кнопка"
+
+#: so-widgets-bundle.php:699
+msgid "Support"
+msgstr "Поддержка"
+
+#: so-widgets-bundle.php:698
+msgid "Manage Widgets"
+msgstr "Управление виджетами"
+
+#: so-widgets-bundle.php:451
+msgid "Deactivated"
+msgstr "Деактивированно"
+
+#: so-widgets-bundle.php:451
+msgid "Activated"
+msgstr "Активировано"
+
+#: so-widgets-bundle.php:449
+msgid "%s was %s"
+msgstr "%s было %s"
+
+#: so-widgets-bundle.php:423 so-widgets-bundle.php:424
+msgid "SiteOrigin Widgets"
+msgstr "SiteOrigin Виджеты"
+
+#: icons/icons.php:7
+msgid "Elegant Themes Line Icons"
+msgstr "Elegant Themes иконы линии"
+
+#: icons/icons.php:11
+msgid "Typicons"
+msgstr "Typicons"
+
+#: icons/icons.php:9
+msgid "Genericons"
+msgstr "Genericons"
+
+#: icons/icons.php:10
+msgid "Icomoon Free"
+msgstr "Icomoon бесплатный"
+
+#: icons/icons.php:8
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: base/siteorigin-widget.class.php:539
+msgid "Are you sure?"
+msgstr "Вы уверены?"
+
+#: base/siteorigin-widget.class.php:451
+msgid "Help"
+msgstr "Помощь"
+
+#: base/siteorigin-widget.class.php:446
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: base/siteorigin-widget.class.php:518
+msgid "You will only need to do this once."
+msgstr "Вы должны сделать это только один раз."
+
+#: base/siteorigin-widget.class.php:517
+msgid "This widget has scripts and styles that need to be loaded before you can use it. Please save and reload your current page."
+msgstr "Этот виджет имеет скрипты и стили, которые должны быть загружены, прежде чем вы можете использовать его. Пожалуйста, сохраните и перезагрузите текущую страницу."
+
+#: base/inc/widgets/base-slider.class.php:131
+msgid "Maximum height"
+msgstr "Максимальная высота"
+
+#: base/inc/widgets/base-slider.class.php:121
+msgid "Video format"
+msgstr "Формат видео"
+
+#: base/inc/widgets/base-slider.class.php:116
+msgid "An external URL of the video. Overrides video file."
+msgstr "Внешний URL-адрес видео. Заменяет видео файл."
+
+#: base/inc/widgets/base-slider.class.php:114 widgets/video/video.php:84
+msgid "Video URL"
+msgstr "Ссылка на видео"
+
+#: base/inc/widgets/base-slider.class.php:108
+msgid "Video file"
+msgstr "Видеофайл"
+
+#: base/inc/widgets/base-slider.class.php:90
+msgid "Navigation size"
+msgstr "Размер навигации"
+
+#: base/inc/widgets/base-slider.class.php:84
+msgid "Rounded thick"
+msgstr "Большая закругленность"
+
+#: base/inc/widgets/base-slider.class.php:83
+msgid "Rounded medium"
+msgstr "Средняя закругленность"
+
+#: base/inc/widgets/base-slider.class.php:82
+msgid "Rounded thin"
+msgstr "Небольшая закругленность"
+
+#: base/inc/widgets/base-slider.class.php:81
+msgid "Rounded ultra thin"
+msgstr "Очень малая закругленность"
+
+#: base/inc/widgets/base-slider.class.php:80
+msgid "Thick"
+msgstr "Толстый"
+
+#: base/inc/widgets/base-slider.class.php:79 widgets/button/button.php:144
+#: widgets/button/button.php:168
+#: widgets/social-media-buttons/social-media-buttons.php:108
+#: widgets/social-media-buttons/social-media-buttons.php:130
+#: widgets/social-media-buttons/social-media-buttons.php:152
+msgid "Medium"
+msgstr "Средний"
+
+#: base/inc/widgets/base-slider.class.php:78
+msgid "Thin"
+msgstr "Тонкий"
+
+#: base/inc/widgets/base-slider.class.php:77
+msgid "Ultra thin"
+msgstr "Очень тонкий"
+
+#: base/inc/widgets/base-slider.class.php:74
+msgid "Navigation style"
+msgstr "Стиль навигации"
+
+#: base/inc/widgets/base-slider.class.php:68
+msgid "Navigation color"
+msgstr "Цвет навигации"
+
+#: base/inc/widgets/base-slider.class.php:62
+msgid "How long each frame is displayed for in milliseconds."
+msgstr "Как долго каждый кадр отображается в миллисекундах."
+
+#: base/inc/widgets/base-slider.class.php:61
+msgid "Timeout"
+msgstr "Тайм-аут"
+
+#: base/inc/widgets/base-slider.class.php:55
+msgid "Animation speed in milliseconds."
+msgstr "Скорость анимации в миллисекундах."
+
+#: base/inc/widgets/base-slider.class.php:54
+msgid "Animation speed"
+msgstr "Скорость анимации"
+
+#: base/inc/actions.php:38 base/inc/preview.tpl.php:3
+#: base/siteorigin-widget.class.php:591
+msgid "Widget Preview"
+msgstr "Просмотр Виджета"
+
+#: base/inc/post-selector.php:205
+msgid "Additional query arguments. See <a href=\"http://codex.wordpress.org/Function_Reference/query_posts\" target=\"_blank\">query_posts</a>."
+msgstr "Дополнительные аргументы запроса. Тут <a href=\"http://codex.wordpress.org/Function_Reference/query_posts\" target=\"_blank\">query_posts</a>."
+
+#: base/inc/post-selector.php:203
+msgid "Additional"
+msgstr "Дополнительный"
+
+#: base/inc/post-selector.php:194
+msgid "Exclude sticky"
+msgstr "Исключить важные"
+
+#: base/inc/post-selector.php:193
+msgid "Ignore sticky"
+msgstr "Игнорировать важные"
+
+#: base/inc/post-selector.php:192 compat/beaver-builder/beaver-builder.php:60
+#: widgets/google-map/google-map.php:256 widgets/image/image.php:46
+msgid "Default"
+msgstr "По умолчанию"
+
+#: base/inc/post-selector.php:189
+msgid "Sticky posts"
+msgstr "Важные статьи"
+
+#: base/inc/post-selector.php:183
+msgid "Posts per page"
+msgstr "Сообщений на странице"
+
+#: base/inc/post-selector.php:172
+msgid "By include order"
+msgstr "По содержащим в себе порядоке"
+
+#: base/inc/post-selector.php:171
+msgid "By numeric meta value"
+msgstr "По числовому мета значению"
+
+#: base/inc/post-selector.php:170
+msgid "By meta value"
+msgstr "По мета значению"
+
+#: base/inc/post-selector.php:169
+msgid "Menu order"
+msgstr "Порядок Меню"
+
+#: base/inc/post-selector.php:168
+msgid "Comment count"
+msgstr "Количество комментариев"
+
+#: base/inc/post-selector.php:167
+msgid "Random order"
+msgstr "Случайный порядок"
+
+#: base/inc/post-selector.php:166
+msgid "By parent"
+msgstr "Родителем"
+
+#: base/inc/post-selector.php:165
+msgid "Modified date"
+msgstr "Дата изменения"
+
+#: base/inc/post-selector.php:164
+msgid "Published date"
+msgstr "Дата публикации"
+
+#: base/inc/post-selector.php:163 widgets/contact/contact.php:47
+#: widgets/cta/cta.php:63 widgets/editor/editor.php:31
+#: widgets/features/features.php:132 widgets/post-carousel/post-carousel.php:91
+#: widgets/price-table/price-table.php:42
+#: widgets/price-table/price-table.php:61
+#: widgets/simple-masonry/simple-masonry.php:55
+#: widgets/simple-masonry/simple-masonry.php:86
+#: widgets/social-media-buttons/social-media-buttons.php:42
+#: widgets/taxonomy/taxonomy.php:33 widgets/testimonial/testimonial.php:40
+#: widgets/video/video.php:32
+msgid "Title"
+msgstr "Название"
+
+#: base/inc/post-selector.php:162
+msgid "Author"
+msgstr "Автор"
+
+#: base/inc/post-selector.php:161
+msgid "Post ID"
+msgstr "ID записи"
+
+#: base/inc/post-selector.php:160
+msgid "No order"
+msgstr "Нет порядка"
+
+#: base/inc/post-selector.php:157
+msgid "Order by"
+msgstr "Сортировать по"
+
+#: base/inc/post-selector.php:141 widgets/taxonomy/taxonomy.php:37
+msgid "Taxonomies"
+msgstr "Таксономии"
+
+#: base/inc/post-selector.php:134
+msgid "Post in"
+msgstr "Опубликовать в"
+
+#: base/inc/post-selector.php:121
+msgid "Post type"
+msgstr "Тип записей"
+
+#: base/inc/post-selector.php:29
+msgid "Build posts query"
+msgstr "Построение запроса для статей"
+
+#: base/inc/post-selector.php:19 base/inc/post-selector.php:136
+msgid "Select posts"
+msgstr "Выбрать статьи"
+
+#: base/inc/post-selector.php:13
+msgid "This query returns <a href=\"#\" class=\"preview-query-posts\">%s posts</a>."
+msgstr "Этот запрос возвращает <a href=\"#\" class=\"preview-query-posts\">%s записи</a>."
+
+#: base/inc/meta-box-manager.php:77
+msgid "Widgets Bundle Post Meta Data"
+msgstr "Бандл виджетов статей с метаданным"
+
+#: base/inc/meta-box-manager.php:35
+msgid "SiteOrigin Meta Box Manager"
+msgstr "SiteOrigin Мета Box Менеджер"
+
+#: base/inc/fields/widget.class.php:46
+msgid "%s is not a SiteOrigin Widget"
+msgstr "%s не является SiteOrigin Widget"
+
+#: base/inc/fields/widget.class.php:36
+msgid "%s does not exist"
+msgstr "%s не существует"
+
+#: base/inc/fields/repeater.class.php:93
+msgid "Add"
+msgstr "Добавить"
+
+#: base/inc/fields/repeater.class.php:54
+msgid "Item"
+msgstr "Пункт"
+
+#: base/inc/fields/media.class.php:123
+msgid "External URL"
+msgstr "Внешний URL-адрес"
+
+#: base/inc/fields/icon.class.php:21 base/inc/fields/media.class.php:111
+msgid "Remove"
+msgstr "Убрать"
+
+#: base/inc/fields/media.class.php:69
+msgid "You need to <a href=\"%s\">upgrade</a> to WordPress 3.5 to use media fields"
+msgstr "Вам необходимо <a href=\"%s\"> обновиться </a> на WordPress 3.5, чтобы использовать поля медиа"
+
+#: base/inc/fields/media.class.php:61
+msgid "Set Media"
+msgstr "Установить медиа"
+
+#: base/inc/fields/media.class.php:60
+msgid "Choose Media"
+msgstr "Выбор медиа"
+
+#: base/inc/fields/link.class.php:30
+msgid "Close"
+msgstr "Закрыть"
+
+#: base/inc/fields/link.class.php:25
+msgid "Search Content"
+msgstr "Поиск контента"
+
+#: base/inc/fields/link.class.php:20
+msgid "Select Content"
+msgstr "Выберите контент"
+
+#: base/inc/fields/icon.class.php:18
+msgid "Choose Icon"
+msgstr "Выберите иконку"
+
+#: base/inc/fields/font.class.php:17
+msgid "Use theme font"
+msgstr "Использовать шрифт темы"
+
+#: base/inc/fields/factory.class.php:22
+msgid "This field does not have a type. Please specify a type for it to be rendered correctly."
+msgstr "Это поле не имеет тип. Пожалуйста, укажите тип для корректной обработки."
+
+#: base/inc/fields/base.class.php:320
+msgid "Optional"
+msgstr "Опционально"
+
+#: admin/tpl/admin.php:101
+msgid "Read More"
+msgstr "Читать дальше"
+
+#: admin/tpl/admin.php:100
+msgid "Developers - create your own widgets for the Widgets Bundle."
+msgstr "Разработчики - создайте свои собственные виджеты для Widgets Bundle."
+
+#: admin/tpl/admin.php:19
+msgid "Disabled"
+msgstr "Выключено"
+
+#: admin/tpl/admin.php:18
+msgid "Enabled"
+msgstr "Включено"
+
+#: admin/tpl/admin.php:17 base/inc/post-selector.php:123
+#: widgets/google-map/google-map.php:324
+msgid "All"
+msgstr "Всё"
+
+#. #-#-#-#-#  tmp-so-widgets-bundle.pot (SiteOrigin Widgets Bundle 1.8.4) 
+#. #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin/tpl/admin.php:9 so-widgets-bundle.php:196
+msgid "SiteOrigin Widgets Bundle"
+msgstr "SiteOrigin Бандл Виджетов"
