@@ -116,7 +116,6 @@ function login_header( $title = 'Log In', $message = '', $wp_error = '' ) {
 		$login_header_url   = __( 'https://wordpress.org/' );
 		$login_header_title = __( 'Powered by WordPress' );
 	}
-
 	/**
 	 * Filters link URL of the header logo above login form.
 	 *
@@ -144,7 +143,6 @@ function login_header( $title = 'Log In', $message = '', $wp_error = '' ) {
 	} else {
 		$login_header_text = $login_header_title;
 	}
-
 	$classes = array( 'login-action-' . $action, 'wp-core-ui' );
 	if ( is_rtl() )
 		$classes[] = 'rtl';

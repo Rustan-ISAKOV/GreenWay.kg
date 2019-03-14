@@ -247,7 +247,5 @@ for ( $i = 1; $i <= $count; $i++ ) {
 			'<strong>' . $i . '</strong>'
 		) . '</p>';
 	}
-
 }
-
 $pop3->quit();
